@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body{
@@ -21,6 +22,25 @@ body{
             display: flex;
             align-items: center;
             justify-content: space-between;
+
+            nav{
+                display: flex;
+                gap: 46px;
+
+                b{
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 18px;
+                    line-height: 29px;
+                    font-style: normal;
+                    color: #FF4B32;
+                }
+
+                a{
+                    text-decoration: none;
+                    color: #FFFFFF;
+                }
+            }
         }
     }
 }
