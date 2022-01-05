@@ -63,4 +63,9 @@ body .section-1 header .right-header {
           align-items: center;
   gap: 38px;
 }
+
+body .section-1 main {
+  width: 100%;
+  height: calc(100vh - 50px);
+}
 /*# sourceMappingURL=style.css.map */
