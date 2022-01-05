@@ -98,4 +98,11 @@ body .section-1 main .p p {
   line-height: 32px;
   color: #FFFFFF;
 }
+
+body .section-1 main button {
+  width: 148px;
+  height: 61px;
+  background: #FF4B32;
+  border-radius: 5px;
+}
 /*# sourceMappingURL=style.css.map */
