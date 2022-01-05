@@ -14,10 +14,13 @@ body{
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        padding: 50px 145px;
 
         header{
             height: 50px;
-            
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
     }
 }
