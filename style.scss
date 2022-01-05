@@ -41,6 +41,12 @@ body{
                     color: #FFFFFF;
                 }
             }
+
+            .right-header{
+                display: flex;
+                align-items: center;
+                gap: 38px;
+            }
         }
     }
 }
