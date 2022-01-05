@@ -129,6 +129,7 @@ body .section-2 .header {
 }
 
 body .section-2 .header h1 {
+  font-family: Josefin Sans;
   width: 445px;
   font-style: normal;
   font-weight: 600;
