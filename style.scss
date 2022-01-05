@@ -52,7 +52,20 @@ body{
         main{
             width: 100%;
             height: calc(100vh - 50px);
-            
+
+            .h1{
+                width: 524px;
+                height: 210px;
+
+                h1{
+                    font-family: 'Josefin Sans', sans-serif;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 58px;
+                    line-height: 70px;
+                    color: #FFFFFF;
+                }
+            }
         }
     }
 }
