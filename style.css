@@ -137,4 +137,11 @@ body .section-2 .header h1 {
   line-height: 56px;
   color: #000000;
 }
+
+body .section-2 .header div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 26px;
+}
 /*# sourceMappingURL=style.css.map */
