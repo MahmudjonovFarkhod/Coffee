@@ -82,4 +82,18 @@ body .section-1 main .h1 h1 {
   line-height: 70px;
   color: #FFFFFF;
 }
+
+body .section-1 main .p {
+  width: 506px;
+  height: 64px;
+}
+
+body .section-1 main .p p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #FFFFFF;
+}
 /*# sourceMappingURL=style.css.map */
