@@ -114,8 +114,9 @@ body .section-2 {
   padding: 140px 145px;
 }
 
-body .section-2 header {
+body .section-2 .header {
   width: 100%;
+  height: 56px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
