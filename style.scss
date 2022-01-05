@@ -98,5 +98,13 @@ body{
         width: 100%;
         height: 100vh;
         padding: 140px 145px;
+
+        header{
+            width: 100%;
+            height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
     }
 }
