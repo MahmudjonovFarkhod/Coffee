@@ -145,6 +145,14 @@ body{
                 .image-btn{
                     display: flex;
                     align-items: center;
+                    gap: 20px;
+
+                    button{
+                        width: 167px;
+                        height: 57px;
+                        background: #FF4B32;
+                        border-radius: 5px;
+                    }
                 }
             }
 
