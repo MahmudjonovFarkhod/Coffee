@@ -190,7 +190,24 @@ body .section-2 .container .second {
   height: 457px;
 }
 
-body .section-2 .container .third {
+body .section-2 .container .second .image-btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 20px;
+}
+
+body .section-2 .container .second .image-btn button {
+  width: 167px;
+  height: 57px;
+  background: #FF4B32;
+  border-radius: 5px;
+}
+
+body .section-2 .container .second .third {
   width: 369px;
   height: 265px;
   padding-top: 10px;
